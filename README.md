@@ -1,2 +1,5 @@
 # is-toilet-empty
-The is the Introducing the Electric Engineering Lesson project. In Pamukkale University
+
+This is the project of Introduction to Electrical and Electronics Engineering lecture. 
+
+Pamukkale University
