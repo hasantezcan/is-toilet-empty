@@ -15,8 +15,8 @@ int wc2 = 0; // 0 = toilet is available | 1 = toilet is not available
 int wc3 = 0; // 0 = toilet is available | 1 = toilet is not available
 int wc4 = 0; // 0 = toilet is available | 1 = toilet is not available
 String page = "";
-const char* ssid = "ERYILMAZ";
-const char* password = "eryilmaz96";
+const char* ssid = "**********";
+const char* password = "********";
 const String HTTP_TOP = "<html> <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css\" integrity=\"sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T\" crossorigin=\"anonymous\"> <style> .title{ text-align: center; font-size: 10rem;} .available { background-color: green; color: white; font-size: 10rem; text-align: center; border: .2rem solid white } .notavailable { background-color: red; color: white; font-size: 10rem; text-align: center; border: .2rem solid white } .avb { content: \"AVAILABLE\" } .notavb { content: \"NOT AVAILABLE\" } </style> <head> <title>LED</title> <meta http-equiv=\"refresh\" content=\"2\"> <meta charset=\"utf - 8\"> <title>Is Toilet Empty?</title> </head> <body> <p class=\"title\" >Is Toilet Empty</p> <div class=\"row\"> <div class=\"row mt-5\"/>  <div class=\"row\">";
 const String DIV = "<div class=\"col available\">";
 const String DIV_NOT = "<div class=\"col notavailable\">";
